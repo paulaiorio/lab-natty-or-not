@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Potencializando a Presença Digital da Sua Empresa de Estética
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma breve apresentação de como os serviços de social media podem fortalecer a marca, atrair novos clientes e impulsionar o crescimento
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o ChatGPT para gerar o conteúdo e o Gamma.app para formatar a apresentação.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para gerar os slides no ChatGPT, utilizei o seguinte prompt: 
+
+Sou a social media de uma empresa de serviços de estética femininos (manicure, pedicure, cílios, tratamentos de pele, etc) e preciso de uma apresentação completa dos meus serviços em formato PowerPoint com todos os tópicos mencionados acima.
+O cenário atual é: atuamos em marketing com Facebook, Instagram e WhatsApp e consideramos também entrar no TikTok. 
+Os principais pontos a serem abordados na apresentação são os diferenciais na contratação dos serviços de um social media: criação e publicação de conteúdo relevante e frequente, planejamento e desenvolvimento de estratégias de marketing digital, monitoramento e resposta aos comentários, mensagens e feedbacks dos seguidores, análise dos resultados de audiência para identificar tendências, gerir anúncios pagos, coordenar campanhas de publicidade, manter a consistência da marca, aumentar o engajamento e alcançar objetivos estratégicos.
+
+Não gostei do resultado da apresentação gerada pelo ChatGPT, por isso utilizei o Gamma.app que apresentou diversas outras formatações, que deram um ar bastante profissional à apresentação.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi gerada uma apresentação completa, com tópicos e subtópicos explicando cada um dos pontos abordados pelo trabalho do social media. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Achei que o resultado foi acima do esperado, pois pareceu uma apresentação de um profissional da área - e eu entendo muito pouco de social media :D
+Bem natty ot NOT mesmo!!!
 
-### Exemplos e Insigths
+Adorei a experiência!
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+#LabDIONattyOrNot
